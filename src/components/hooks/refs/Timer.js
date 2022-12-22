@@ -9,7 +9,7 @@ const Timer = () => {
             setTimer(prevTimer => prevTimer + 1);
         }, 1000)
         return () => {
-            clearInterval(intervalRef.current);
+            clearInterval(intervalRef.current); 
         };
     }, []);
     return (
