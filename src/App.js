@@ -105,8 +105,8 @@ function App() {
      {/* <DocTitleOne />
      <DocTitleTwo /> */}
 
-     {/* <CounterOne />
-     <CounterTwo /> */}
+     <CounterOne />
+     <CounterTwo />
 
      <UserForm />
     </div>
