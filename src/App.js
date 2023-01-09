@@ -68,8 +68,8 @@ function App() {
   const [count, dispatch] = useReducer(reducer, initialState);
   return (
     <div className="App">
-     {/* <ClassMouse />
-     <HookMouse /> */}
+     {/* <ClassMouse /> */}
+     <HookMouse />
      {/* <MouseContainer /> */}
      {/* <IntervalHookCounter /> */}
      {/* <DataFetching /> */}
