@@ -98,7 +98,7 @@ function App() {
 
      {/* <Counter /> */}
 
-     {/* <FocusInput /> */}
+     <FocusInput />
 
      <TimerOne />
 
