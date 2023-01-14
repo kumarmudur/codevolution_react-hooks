@@ -94,7 +94,7 @@ function App() {
      {/* <DataFetchingOne /> */}
      {/* <DataFetchingTwo /> */}
 
-     {/* <ParentComponent /> */}
+     <ParentComponent />
 
      <Counter />
 
