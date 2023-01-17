@@ -80,7 +80,7 @@ function App() {
       </ChannelContext.Provider>
      </UserContext.Provider> */}
 
-     {/* <CounterOne /> */}
+     <CounterOne />
      {/* <CounterTwo /> */}
      {/* <CounterThree /> */}
 
