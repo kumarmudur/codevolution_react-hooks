@@ -92,7 +92,7 @@ function App() {
      </CountContext.Provider> */}
 
      <DataFetchingOne />
-     {/* <DataFetchingTwo /> */}
+     <DataFetchingTwo />
 
      <ParentComponent />
 
