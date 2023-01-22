@@ -103,7 +103,7 @@ function App() {
      <TimerOne />
 
      <DocTitleOne /> 
-     {/* <DocTitleTwo />  */}
+     <DocTitleTwo /> 
 
      <CounterOne />
      <CounterTwo />
