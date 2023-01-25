@@ -81,7 +81,7 @@ function App() {
      </UserContext.Provider> */}
 
      <CounterOne />
-     {/* <CounterTwo /> */}
+     <CounterTwo />
      {/* <CounterThree /> */}
 
      {/* <CountContext.Provider value={{ countState: count, countDispatch: dispatch }}>
