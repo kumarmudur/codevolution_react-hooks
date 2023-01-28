@@ -70,7 +70,7 @@ function App() {
     <div className="App">
      <ClassMouse />
      <HookMouse />
-     {/* <MouseContainer /> */}
+     <MouseContainer />
      {/* <IntervalHookCounter /> */}
      {/* <DataFetching /> */}
 
