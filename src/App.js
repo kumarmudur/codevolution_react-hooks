@@ -100,7 +100,7 @@ function App() {
 
      <FocusInput />
 
-     <TimerOne />
+     {/* <TimerOne /> */}
 
      <DocTitleOne /> 
      <DocTitleTwo /> 
