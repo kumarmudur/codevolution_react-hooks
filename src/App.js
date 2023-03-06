@@ -22,7 +22,7 @@ import DataFetching from './components/hooks/DataFetching';
 // import ComponentC from './components/hooks/context/ComponentC';
 // import CounterOne from './components/hooks/reducer/CounterOne';
 // import CounterTwo from './components/hooks/reducer/CounterTwo';
-// import CounterThree from './components/hooks/reducer/CounterThree';
+import CounterThree from './components/hooks/reducer/CounterThree';
 
 import ComponentA from './components/hooks/contextReducer/ComponentA';
 import ComponentB from './components/hooks/contextReducer/ComponentB';
@@ -82,7 +82,7 @@ function App() {
 
      <CounterOne />
      <CounterTwo />
-     {/* <CounterThree /> */}
+     <CounterThree />
 
      {/* <CountContext.Provider value={{ countState: count, countDispatch: dispatch }}>
         Count - { count }
